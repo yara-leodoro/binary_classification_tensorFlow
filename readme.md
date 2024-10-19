@@ -1,8 +1,6 @@
 # <center> Classification Binary cats and dogs <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="40" alt="log" /> </center> 
 
-## <center> Python TensorFlow </center> 
-
-> Project for class of Deep Learning
+> Project for class of Deep Learning with Python and TensorFlow 
 
 ## Getting Start
 
